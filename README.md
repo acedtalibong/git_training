@@ -1,7 +1,7 @@
-## Git Training Sample
+# Git Training Sample
 
-# Fork
+## Fork
 
-# Merge
+## Merge
 
-# Branch
+## Branch
